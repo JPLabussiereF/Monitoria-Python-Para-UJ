@@ -2,14 +2,6 @@
 
 Este EXTRA.md reúne atividades para praticar **coleta de dados com `input()`**, **conversões de tipos** e **operadores aritméticos** em Python. Resolva cada problema criando um pequeno programa que **leia dados do teclado** e **imprima o resultado** conforme solicitado.
 
-## Como rodar
-1. Use Python 3.11+ (ou similar).
-2. Salve cada exercício em um arquivo `.py` separado (ex.: `ex01.py`, `ex02.py`, …).
-3. Execute no terminal:  
-   ```bash
-   python ex01.py
-   ```
-
 ## Dicas úteis
 - Converta entradas numéricas com `int()` ou `float()`, por exemplo: `idade = int(input("Idade: "))`.
 - Para **divisão**, valide que o **denominador é diferente de 0** antes de calcular.
