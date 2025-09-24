@@ -68,18 +68,3 @@ Este EXTRA.md reúne atividades para praticar **coleta de dados com `input()`**,
 
 13. **Média ponderada fixa**  
     Calcule e **imprima a média ponderada** dos números **5, 12, 20 e 15** com **pesos 1, 2, 3 e 4**, respectivamente.
-
----
-
-## Sugestão de estrutura para cada exercício
-
-```python
-# exemplo_exercicio.py
-def main():
-    # 1) Entrada (input)
-    # 2) Processamento (cálculo/validações)
-    # 3) Saída (print do resultado)
-
-if __name__ == "__main__":
-    main()
-```
