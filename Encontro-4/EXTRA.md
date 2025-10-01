@@ -280,17 +280,6 @@ Recomendação: John Wick 🎬
 
 ---
 
-## 🎯 SUGESTÃO DE PRÁTICA:
-
-- **Exercícios 1-3:** Aquecer conceitos básicos
-- **Exercícios 4-7:** Consolidar if/elif/else
-- **Exercícios 8-11:** Dominar condições compostas
-- **Exercícios 12-13:** Desafio final
-
-**Meta:** Complete pelo menos 8 exercícios para dominar condicionais! 💪
-
----
-
 ## 📚 RECURSOS ADICIONAIS:
 
 - [Documentação Python - Estruturas de Controle](https://docs.python.org/pt-br/3/tutorial/controlflow.html)
